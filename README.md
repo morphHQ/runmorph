@@ -100,7 +100,7 @@ const { data, next, error } = await contacts.list({
 // Retrieve a specific resource
 const { data, error } = await contacts.retrieve('contact-123', {
   expand: ['company'], // return the whole company resource
-  fields: ['email', 'name']
+  fields: ['email', 'firstName']
 });
 
 // Create a resource
