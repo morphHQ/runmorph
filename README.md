@@ -18,6 +18,9 @@ https://github.com/user-attachments/assets/dae75fcb-aea0-4f2a-98d6-7096a30a3fe9
 
 > 	⚠️ **Private during the alpha phase**: This will be a fully free and open-source project. However, as we are fine-tuning the final aspects of the SDK, the package is currently accessible in a private repository. But you can gain access! [Simply join our Morph Community on Slack](https://join.slack.com/t/morphcommunity/shared_invite/zt-2tc1vo0n7-8lUPL8~D7wwjC4UmbujAUA) to get access before it goes public.
 
+> **⭐ Hit that star to stay in the loop!**
+
+
 
 ## Installation
 
