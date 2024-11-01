@@ -3,6 +3,10 @@
 
 A powerful free and open-source TypeScript SDK for building unified integrations with any SaaS platforms (CRM, ATS, Helpdesk, ProjectTracker, ...). This SDK provides a consistent interface for managing connections, resources, and API interactions across multiple platforms.
 
+https://github.com/user-attachments/assets/dae75fcb-aea0-4f2a-98d6-7096a30a3fe9
+
+
+
 ## Features
 
 - 🔌 Unified connector interface for any platforms
