@@ -107,10 +107,11 @@ const { data, error } = await contacts.retrieve('contact-123', {
 const { data, error } = await contacts.create({
   firstName: "John",
   lastName: "Doe",
-  email: "john.doe@corp.co
+  email: "john.doe@corp.co"
 });
 
 // Update a resource
+
 const { data, error } = await contacts.update('contact-123', {
   firstName: "Jane",
 });
